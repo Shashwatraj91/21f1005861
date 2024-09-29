@@ -1,0 +1,17 @@
+body{
+    background-color: #fdfdbb;
+}
+a{
+    color: #ff0000;
+}
+h1,h5{
+    text-align: center;
+}
+th{
+    background-color: #259e3f;
+}
+td{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: right;
+}
